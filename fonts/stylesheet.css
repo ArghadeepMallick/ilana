@@ -1,0 +1,70 @@
+@font-face {
+    font-family: 'Futura Bk BT';
+    src: url('FuturaBT-Book.woff2') format('woff2'),
+        url('FuturaBT-Book.woff') format('woff'),
+        url('FuturaBT-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'rupi foradian';
+    src: url('rupiforadian-roman.woff2') format('woff2'),
+        url('rupiforadian-roman.woff') format('woff'),
+        url('rupiforadian-roman.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TR Century Gothic';
+    src: url('TRCenturyGothic.woff2') format('woff2'),
+        url('TRCenturyGothic.woff') format('woff'),
+        url('TRCenturyGothic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kalista Script';
+    src: url('KalistaScript-Bold.woff2') format('woff2'),
+        url('KalistaScript-Bold.woff') format('woff'),
+        url('KalistaScript-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MarkPro';
+    src: url('MarkPro-Medium.woff2') format('woff2'),
+        url('MarkPro-Medium.woff') format('woff'),
+        url('MarkPro-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TR Century Gothic';
+    src: url('TRCenturyGothicItalic.woff2') format('woff2'),
+        url('TRCenturyGothicItalic.woff') format('woff'),
+        url('TRCenturyGothicItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'League Spartan';
+    src: url('LeagueSpartan-Bold.woff2') format('woff2'),
+        url('LeagueSpartan-Bold.woff') format('woff'),
+        url('LeagueSpartan-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
